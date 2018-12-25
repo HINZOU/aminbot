@@ -1,0 +1,14 @@
+{
+  "name": "genprbot",
+  "version": "1.0.0",
+  "description": "Heroku buildpack for Java [![Build Status](https://travis-ci.org/heroku/heroku-buildpack-java.svg)](https://travis-ci.org/heroku/heroku-buildpack-java) [![CircleCI](https://circleci.com/gh/heroku/heroku-buildpack-java.svg?style=svg)](https://circleci.com/gh/heroku/heroku-buildpack-java) =========================",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hinzou",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
